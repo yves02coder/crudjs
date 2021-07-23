@@ -1,0 +1,53 @@
+{
+  "articles": [
+    {
+      "title": "maison bonbon",
+      "articleDescription": "We are pleased to present this completely bespoke villa with modern architecture and custom made Italian interiors, located on an exclusive frond, at the Palm Jumeirah.    Built at the heart of everything Dubai has to offer, Villa 21 nicknamed “Serene Versante” is one-of-a-kind residential offering where modern design meets eclectic lifestyle. Crafted over an extended plot of 15,1",
+      "articleImage": "https://img.jamesedition.com/listing_images/2021/01/31/20/51/39/d5390229-7f73-4135-be4a-99538947265b/je/1000x620xc.jpg",
+      "articlePrix": "1000000",
+      "id": 4
+    },
+    {
+      "title": "maison",
+      "articleDescription": "We are pleased to present this completely bespoke villa with modern architecture and custom made Italian interiors, located on an exclusive frond, at the Palm Jumeirah.    Built at the heart of everything Dubai has to offer, Villa 21 nicknamed “Serene Versante” is one-of-a-kind residential offering where modern design meets eclectic lifestyle. Crafted over an extended plot of 15,1",
+      "articleImage": "https://pic.le-cdn.com/thumbs/520x390/04/1/properties/Property-73eb0000000003e600015c548b61-65465203.jpg",
+      "articlePrix": "1000000",
+      "id": 5
+    },
+    {
+      "title": "voiture",
+      "articleDescription": "We are pleased to present this completely bespoke villa with modern architecture and custom made Italian interiors, located on an exclusive frond, at the Palm Jumeirah.    Built at the heart of everything Dubai has to offer, Villa 21 nicknamed “Serene Versante” is one-of-a-kind residential offering where modern design meets eclectic lifestyle. Crafted over an extended plot of 15,1",
+      "articleImage": "https://i.ytimg.com/vi/Fw1IBJxcgc4/maxresdefault.jpg",
+      "articlePrix": "1000000",
+      "id": 6
+    },
+    {
+      "title": "voiture",
+      "articleDescription": "We are pleased to present this completely bespoke villa with modern architecture and custom made Italian interiors, located on an exclusive frond, at the Palm Jumeirah.    Built at the heart of everything Dubai has to offer, Villa 21 nicknamed “Serene Versante” is one-of-a-kind residential offering where modern design meets eclectic lifestyle. Crafted over an extended plot of 15,1",
+      "articleImage": "https://images.bfmtv.com/ivwX3sUA_iklPmyoybsxBlfIHY4=/4x3:1252x705/1248x0/images/-180591.jpg",
+      "articlePrix": "1000000",
+      "id": 7
+    },
+    {
+      "title": "Moto",
+      "articleDescription": "We are pleased to present this completely bespoke villa with modern architecture and custom made Italian interiors, located on an exclusive frond, at the Palm Jumeirah. Built at the heart of everything Dubai has to offer, Villa 21 nicknamed “Serene Versante” is one-of-a-kind residential offering where modern design meets eclectic lifestyle. Crafted over an extended plot of 15,1",
+      "articleImage": "https://moto-station.com/wp-content/uploads/2017/10/16/lightning-motorcycles-ls-218-1024x577.jpg",
+      "articlePrix": "12000",
+      "id": 9
+    },
+    {
+      "title": "ordinateur 💻 ",
+      "articleDescription": "We are pleased to present this completely bespoke villa with modern architecture and custom made Italian interiors, located on an exclusive frond, at the Palm Jumeirah.    Built at the heart of everything Dubai has to offer, Villa 21 nicknamed “Serene Versante” is one-of-a-kind residential offering where modern design meets eclectic lifestyle. Crafted over an extended plot of 15,1",
+      "articleImage": "https://sm.ign.com/t/ign_fr/video/p/project-va/project-valerie-un-pc-portable-gaming-avec-trois-ecrans-par_ca6z.620.png",
+      "articlePrix": "1800",
+      "id": 10
+    },
+    {
+      "title": "baskets 👟 ",
+      "articleDescription": "We are pleased to present this completely bespoke villa with modern architecture and custom made Italian interiors, located on an exclusive frond, at the Palm Jumeirah.    Built at the heart of everything Dubai has to offer, Villa 21 nicknamed “Serene Versante” is one-of-a-kind residential offering where modern design meets eclectic lifestyle. Crafted over an extended plot of 15,1",
+      "articleImage": "https://www.chausport.com/media/pages-statiques/guide-d-achat/content/img/modeles-cultes/nike-air-jordan/air-jordan-1-retro-high-og-banned.jpg",
+      "articlePrix": "1800",
+      "id": 11
+    }
+  ]
+}
